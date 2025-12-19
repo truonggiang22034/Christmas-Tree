@@ -3,7 +3,7 @@ import Home from './components/Home';
 import ChristmasTree3D from './components/ChristmasTree3D';
 
 // Detect if running on GitHub Pages
-const basename = window.location.hostname === 'nguyentrungnghia1802.github.io' 
+const basename = window.location.hostname === 'truonggiang22034.github.io' 
   ? '/Christmas-Tree' 
   : '/';
 

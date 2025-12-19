@@ -50,8 +50,8 @@ Sau khi cấu hình xong, bạn có thể truy cập các phiên bản khác nha
 ### Bước 3: Gửi link cho người nhận
 
 Khi deploy lên GitHub Pages, link sẽ có dạng:
-- `https://nguyentrungnghia1802.github.io/Christmas/christmas-tree?source=0`
-- `https://nguyentrungnghia1802.github.io/Christmas/christmas-tree?source=1`
+- `https://truonggiang22034.github.io/Christmas/christmas-tree?source=0`
+- `https://truonggiang22034.github.io/Christmas/christmas-tree?source=1`
 - v.v.
 
 ## 💡 Các cách cấu hình nguồn ảnh

@@ -43,15 +43,15 @@ export const treeSources: TreeSource[] = [
     ),
   },
 
-  // Nguồn 1: Ảnh mặc định từ thư mục local
-  {
-    name: "Anh Giang",
-    topPhoto: `${photoBasePath}/a-giang/top.png`,
-    numberedPhotos: Array.from(
-      { length: 31 },
-      (_, i) => `${photoBasePath}/default/${i + 1}.png`
-    ),
-  },
+  // // Nguồn 1: Ảnh mặc định từ thư mục local
+  // {
+  //   name: "Anh Giang",
+  //   topPhoto: `${photoBasePath}/a-giang/top.png`,
+  //   numberedPhotos: Array.from(
+  //     { length: 31 },
+  //     (_, i) => `${photoBasePath}/default/${i + 1}.png`
+  //   ),
+  // },
 
 ];
 

@@ -28,7 +28,7 @@ export interface TreeSource {
  */
 
 // Detect if on GitHub Pages and adjust path accordingly
-const photoBasePath = window.location.hostname === 'nguyentrungnghia1802.github.io' 
+const photoBasePath = window.location.hostname === 'truonggiang22034.github.io' 
   ? '/Christmas-Tree/photos' 
   : '/photos';
 

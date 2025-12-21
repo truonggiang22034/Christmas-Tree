@@ -52,6 +52,15 @@ export const treeSources: TreeSource[] = [
       (_, i) => `${photoBasePath}/a-giang/${i + 1}.png`
     ),
   },
+    // // Nguồn 2: Ảnh mặc định từ thư mục local
+  {
+    name: "Em yêu Như Ý  ",
+    topPhoto: `${photoBasePath}/Bowiu/top.png`,
+    numberedPhotos: Array.from(
+      { length: 31 },
+      (_, i) => `${photoBasePath}/Bowiu/${i + 1}.png`
+    ),
+  },
 
 ];
 
